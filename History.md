@@ -1,4 +1,11 @@
 
+1.0.0 / 2014-02-26 
+==================
+
+  * pgk: bump version 1.0.0
+  * cmp: bump version 1.0.0
+  * cmp: change name to 'component-each'
+
 0.2.1 / 2014-02-19
 ==================
 
